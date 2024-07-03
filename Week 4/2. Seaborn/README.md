@@ -50,3 +50,8 @@ Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=
 
 
 Once Installed now we can import it inside our python code.
+
+
+Numerical variables - integers floats
+Categorical variables - text booleans
+Time variables - dates and time 
